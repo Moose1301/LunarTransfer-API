@@ -10,16 +10,16 @@ So it will look like this under a TXT record: "mc_transfer_accept_from=localhost
 
 ## Reporting an issue
 
-If you find an issue you can submit it [here](https://github.com/Moose1301/LunarTransferAPI/issues).
+If you find an issue you can submit it [here](https://github.com/Moose1301/LunarTransfer-API/issues).
 
 ## Get the Source
 
 1. Install maven `sudo apt-get install maven`
 2. Verify installation `mvn -v`
-3. Clone the repository `git clone git@github.com:Moose1301/LunarTransferAPI.git`
-4. Navigate to the new folder `cd lunartransferapi`
+3. Clone the repository `git clone git@github.com:Moose1301/LunarTransfer-API.git`
+4. Navigate to the new folder `cd lunartransfer-api`
 5. Import `pom.xml` into your IDE
 
 ## Contributing
 
-You can submit a [pull request](https://github.com/Moose1301/LunarTransferAPI/pulls) with your changes.
+You can submit a [pull request](https://github.com/Moose1301/LunarTransfer-API/pulls) with your changes.
