@@ -1,7 +1,7 @@
 # LunarTransferAPI
 This LunarTransferAPI allows you to utilise the transfer packet that has been added to LunarClient to send players to other servers and also receive the ping of the player to that server
 
-## Handling the promot screen
+## Handling the prompt screen
 To ignore the prompt by the client to the player, the server you are being switched to needs to have a TXT record with the domain of the server you are being sent from.
 
 ### Example: 
